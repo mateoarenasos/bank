@@ -1,0 +1,5 @@
+package com.cursologicasp.model;
+
+public class Money {
+
+}
