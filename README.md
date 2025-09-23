@@ -1,3 +1,3 @@
 # Ejercicio en clase ~ Banco.
 
-## Esto es un subtitulo.
+## Esto es un subtítulo.
