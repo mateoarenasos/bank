@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.logsoluprobl.appbank","c":"AppbankApplication","l":"AppbankApplication()","u":"%3Cinit%3E()"},{"p":"com.logsoluprobl.appbank","c":"AppbankApplication","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
